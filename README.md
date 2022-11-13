@@ -2,7 +2,7 @@
 
 I'm Jude Ndubuisi a Frontend Web  & Python Developer, I’m interested in developing websites, softwares and web apps for everyday humans .... I Spend most of time coding outstanding projects or learning more amazing tools.
 
-:mailbox: Reach me out!
+:mailbox: Connect with ME!
 
 [![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/) [![Mail Badge](https://img.shields.io/badge/-judendubuisi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ikechukwujudendubuisi@gmail.com)
 
@@ -24,7 +24,7 @@ I'm Jude Ndubuisi a Frontend Web  & Python Developer, I’m interested in develo
 
 <br />
 
-#### Bizness
+#### Business
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: ikechukwujudendubuisi@gmail.com
 
