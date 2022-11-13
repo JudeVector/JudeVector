@@ -13,7 +13,7 @@
 </br>
 :mailbox: Connect with ME!
 
-[![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/) [![Mail Badge](https://img.shields.io/badge/-judendubuisi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ikechukwujudendubuisi@gmail.com)
+![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/) [![Mail Badge](https://img.shields.io/badge/-judendubuisi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ikechukwujudendubuisi@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -31,15 +31,15 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 </br>
-(#) [![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#)[![Visual Studio Badge](https://img.shields.io/badge/-Vscode-red?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=red)](#)[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)](#)
 <br />
 
 #### Business
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-- :email: ikechukwujudendubuisi@gmail.com
+:email: ikechukwujudendubuisi@gmail.com
 
 
 ⚡More stuff about me
