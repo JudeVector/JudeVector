@@ -1,6 +1,15 @@
-## Hi I'm Jude <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+#### Profile Visits 
 
-I'm Jude Ndubuisi a Frontend Web  & Python Developer, I’m interested in developing websites, softwares and web apps for everyday humans .... I Spend most of time coding outstanding projects or learning more amazing tools.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CodeJud.CodeJude) <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Jude</h1>
+<h3 align="center">A Passionate Frontend Web  & Python Developer</h3>
+
+
+<h3>I’m interested in developing websites, softwares and web apps for everyday humans .... I Spend most of time coding outstanding projects or learning more amazing tools.</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 :mailbox: Connect with ME!
 
@@ -15,13 +24,17 @@ I'm Jude Ndubuisi a Frontend Web  & Python Developer, I’m interested in develo
 - 😄 Pronouns: Vector, JudeCodes, JudeVector.
 - ⚡ Fun fact: I play games and love meeting people of similar interest.
 
+
+
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#)[![Visual Studio Badge](https://img.shields.io/badge/-Vscode-red?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=red)](#)[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)](#)
-
-
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)]
+</br>
+(#) [![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#)[![Visual Studio Badge](https://img.shields.io/badge/-Vscode-red?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=red)](#)[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)](#)
 <br />
 
 #### Business
@@ -29,14 +42,10 @@ I'm Jude Ndubuisi a Frontend Web  & Python Developer, I’m interested in develo
 - :email: ikechukwujudendubuisi@gmail.com
 
 
-#### Profile Visits 
+⚡More stuff about me
+<br >
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CodeJud.CodeJude)
-
-  More stuff about me
-<br > -->
-
-I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.
+<h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
 
 #### Coding Stats
@@ -48,5 +57,7 @@ I love learning new things everyday it keeps me going. Meeting amazing people wh
 
 ![Jude's github stats](https://github-readme-stats.vercel.app/api?username=CodeJude&count_private=true&theme=radical&hide=contribs,prs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJude&" alt="CodeJude" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJude&theme=radical" alt="CodeJude" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeJude&show_icons=true&locale=en&layout=compact&theme=radical" alt="CodeJude" /></p>
 
