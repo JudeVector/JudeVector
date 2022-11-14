@@ -44,7 +44,7 @@
 :email: ikechukwujudendubuisi@gmail.com
 
 
-⚡More stuff about me
+<h2>⚡More stuff about me </h2>
 <br >
 
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
