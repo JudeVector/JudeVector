@@ -21,6 +21,7 @@
 - 🔭 I’m currently working as a Freelancer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and team to work with.
+- 💯 I love learning new things everyday because i believe knowledge is essential 
 - 📫 How to reach me: ikechukwujudendubuisi@gmail.com.
 - 😄 Pronouns: Vector, JudeCodes, JudeVector.
 - ⚡ Fun fact: I play games and love meeting people of similar interest.
