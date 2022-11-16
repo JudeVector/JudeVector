@@ -49,7 +49,7 @@
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
 
-#### Coding Stats
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
