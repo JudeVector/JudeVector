@@ -49,11 +49,6 @@
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Jude's github stats](https://github-readme-stats.vercel.app/api?username=CodeJude&count_private=true&theme=radical&hide=contribs,prs)
