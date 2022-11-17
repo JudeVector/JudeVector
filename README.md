@@ -44,7 +44,7 @@
 :email: ikechukwujudendubuisi@yahoo.com
 
 
-<h3>⚡more stuff about me </h3>
+<h3>⚡More stuff & stats about me </h3>
 
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
