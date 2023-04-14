@@ -41,7 +41,6 @@
 
 #### Business
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-:email: ikechukwujudendubuisi@gmail.com
 
 <h3>⚡More stuff & stats about me </h3>
 
