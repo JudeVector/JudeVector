@@ -18,7 +18,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Python and open for internships
+- 🔭 I’m currently learning Python/JavaScripts and open for internships
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential 
