@@ -7,13 +7,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/judendubuisi" target="blank"><img src="https://img.shields.io/badge/follow-judendubuisi-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="judendubuisi" /></a> </p>
 </br>
 
-:mailbox: Connect with ME !
-
-[![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/)
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently learning Python and JavaScripts
+- 🔭 I’m currently learning and expanding my skills on Python and JavaScript
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential 
