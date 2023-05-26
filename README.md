@@ -1,10 +1,10 @@
-<h2 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Jude Ndubuisi</h2>
-<h3 align="center">Software Developer with a solid foundation in Python, JavaScript and Solidity.</h3>
+<h2 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h2>
+<h3 align="center"><u>Software Developer with a solid foundation in Python, JavaScript and Solidity.</u></h3>
 
-<h4>Hi, I'm a Full Stack developer based in Abu Dhabi, United Arab Emirates, I’m interested in developing websites, softwares and web apps for everyday humans .... I spend most of time coding outstanding projects or learning more amazing tools.</h4>
+<h4>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools.</h4>
 
-
-
+<p align="center"> <a href="https://twitter.com/judevector" target="blank"><img src="https://img.shields.io/twitter/follow/judevector?logo=twitter&style=for-the-badge" alt="judevector" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/judendubuisi" target="blank"><img src="https://img.shields.io/badge/follow-judendubuisi-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="judendubuisi" /></a> </p>
 </br>
 
 :mailbox: Connect with ME !
