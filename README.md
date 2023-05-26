@@ -1,17 +1,15 @@
 <h2 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Jude Ndubuisi</h2>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer with a solid foundation in Python, JavaScript and Solidity.</h3>
 
 <h4>Hi, I'm a Full Stack developer based in Abu Dhabi, United Arab Emirates, I’m interested in developing websites, softwares and web apps for everyday humans .... I spend most of time coding outstanding projects or learning more amazing tools.</h4>
 
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 </br>
 
 :mailbox: Connect with ME !
 
-[![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/) [![Mail Badge](https://img.shields.io/badge/-judendubuisi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ikechukwujudendubuisi@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Jude💫Codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/JudeVector)](https://twitter.com/judevector) [![Linkedin Badge](https://img.shields.io/badge/-judendubuisi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judendubuisi/)
 
 <!-- TODO: Add last video link -->
 
