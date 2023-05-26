@@ -13,12 +13,12 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Python and JavaScripts also open for internships 
+- 🔭 I’m currently learning Python and JavaScripts
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential 
 - 📫 How to reach me: ikechukwujudendubuisi@yahoo.com.
-- 😄 Pronouns: Vector, JudeVector.
+- 😄 Am open for Internships.
 - ⚡ Fun fact: I play games and love meeting people of similar interest.
 
 
