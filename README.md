@@ -38,7 +38,7 @@
 #### Business
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 
-<h3>⚡More stuff & stats about me </h3>
+<h3>⚡More stuff & >
 
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
