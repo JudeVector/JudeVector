@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h2>
-<h1 align="center"><u>Software Developer with a solid foundation in Python, JavaScript and Solidity.</u></h1>
+<h3 align="center"><u>Software Developer with a solid foundation in Python, JavaScript and Solidity.</u></h3>
 
 <h4>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools.</h4>
 
