@@ -3,7 +3,9 @@
 
 <h4>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools.</h4>
 
-<p align="center">
+# 🌐 Socials:
+
+
   <a href="https://twitter.com/judevector" target="blank">
     <img src="https://img.shields.io/twitter/follow/judevector?logo=twitter&style=for-the-badge" alt="judevector" />
   </a>
@@ -11,9 +13,12 @@
   <a href="https://www.linkedin.com/in/judendubuisi" target="blank">
     <img src="https://img.shields.io/badge/follow-judendubuisi-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="judendubuisi" />
   </a>
-</p>
+
 
 </br>
+
+# 💫 About Me:
+
 
 - 🔭 I’m currently learning and expanding my skills on Python and JavaScript
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -25,9 +30,8 @@
 
 
 
-#### Top Technologies
+# 💻 Tech Stacks:
 
-<!-- TODO: Make technologies links takes you to repositories -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 </br>
@@ -42,7 +46,7 @@
 <h3>I love learning new things everyday it keeps me going. Meeting amazing people who i can colaborate with is always a thing of joy for me.</h3>
 
 
-#### Github Stats
+# 📊 GitHub Stats:
 
 ![Jude's github stats](https://github-readme-stats.vercel.app/api?username=CodeJude&count_private=true&theme=radical&hide=contribs,prs)
 
