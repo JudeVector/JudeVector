@@ -1,5 +1,5 @@
-<h2 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h2>
-<h3 align="center"><u>Software Developer with a solid foundation in Python, JavaScript and Solidity.</u></h3>
+<h2 >Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h2>
+<h3 ><u>Full Stack Developer with a solid foundation in Python, JavaScript and the Web3</u></h3>
 
 <h4>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools.</h4>
 
@@ -37,9 +37,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeJude&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJude&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-# 📊 GitHub Stats:
-![Jude's github stats](https://github-readme-stats.vercel.app/api?username=CodeJude&count_private=true&theme=radical&hide=contribs,prs)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJude&theme=radical" alt="CodeJude" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeJude&show_icons=true&locale=en&layout=compact&theme=radical" alt="CodeJude" /></p>
 
