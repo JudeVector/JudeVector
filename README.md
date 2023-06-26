@@ -7,7 +7,7 @@
   <a href="https://twitter.com/judevector" target="blank">
     <img src="https://img.shields.io/twitter/follow/judevector?logo=twitter&style=for-the-badge" alt="judevector" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add multiple non-breaking spaces for spacing -->
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/judendubuisi" target="blank">
     <img src="https://img.shields.io/badge/follow-judendubuisi-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="judendubuisi" />
   </a>
