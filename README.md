@@ -22,7 +22,7 @@
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential 
 - 😄 Am open for Internships.
-- ⚡ Fun fact: I play games and love meeting people of similar interest.
+- ⚡ Fun fact: I love playing games and love meeting people of similar interest.
 
 
 
