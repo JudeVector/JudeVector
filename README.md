@@ -17,7 +17,7 @@
 </br>
 
 # 💫 About Me:
-- 🔭 I’m currently learning and expanding my skills on both Python and JavaScript and AI technologies
+- 🔭 I’m currently learning and expanding my skills on Python, JavaScript and AI technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential 
