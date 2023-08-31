@@ -2,7 +2,7 @@
 <h3> A Software Developer 👨‍💻, Open Source contributor ⛓️ with knowledge in React, NodeJs, Django, Python, Web3 and AI enthusiast </h3>
 
 
-<h3>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools.</h3>
+<h3>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools arising in the tech world.</h3>
 
 # 🌐 Socials:
   <a href="https://twitter.com/judevector" target="blank">
