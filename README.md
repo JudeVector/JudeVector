@@ -1,8 +1,9 @@
 <h1 >Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h1>
-<h3> A Backend Software Developer 👨‍💻, Technical Writer with knowledge in Python and JavaScript and frameworks and tools like NextJS, NodeJs, FastAPI, Django, also a Web3 and AI enthusiast </h3>
-
-
-<h3>I have a passion for developing websites, software, and web applications that cater to everyday users. My main focus is on creating exceptional projects and constantly expanding my knowledge by exploring new and exciting tools arising in the tech world.</h3>
+<h2>About Me</h2>
+<p>Hello there! 👋 I'm a passionate Backend Software Developer 👨‍💻 and Technical Writer deeply immersed in the realms of Python and JavaScript. My expertise extends to frameworks and tools like Nodejs, Nextjs, FastAPI, and Django, and I'm always exploring the latest in Web3 and AI.</p>
+<h3>What Drives Me</h3>
+<p>My professional journey revolves around developing websites, software, and web applications that seamlessly cater to the needs of everyday users. I thrive on the challenge of creating exceptional projects and continuously expanding my knowledge base by delving into the latest and most exciting tools emerging in the dynamic tech landscape.</p>
+<p>Let's build the future, one line of code at a time! 💻✨</p>
 
 # 🌐 Socials:
   <a href="https://twitter.com/judevector" target="blank">
@@ -17,7 +18,7 @@
 </br>
 
 # 💫 About Me:
-- 🔭 I’m currently learning and expanding my skills on Python, JavaScript and AI technologies
+- 🔭 I’m currently learning and expanding my skills on Rust 🦀, Nodejs and AI technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
 - 💯 I love learning new things everyday because i believe knowledge is essential , currently learning NextJS
