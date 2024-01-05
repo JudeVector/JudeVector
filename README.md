@@ -21,7 +21,7 @@
 - 🔭 I’m currently learning and expanding my skills on Rust 🦀, Nodejs and AI technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing projects and teams to work with.
-- 💯 I love learning new things everyday because i believe knowledge is essential , currently learning NextJS
+- 💯 I love learning new things everyday because i believe knowledge is essential
 - 😄 Am open for Internships.
 - ⚡ Fun fact: I love playing games and love meeting people of similar interest.
 
