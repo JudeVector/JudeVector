@@ -1,6 +1,6 @@
-<h1 >Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h1>
-<h2>About Me</h2>
-<h4>Hello there! 👋 I'm a passionate Backend Software Developer 👨‍💻 and Technical Writer deeply immersed in the realms of Python and JavaScript. My expertise extends to frameworks and tools like Nodejs, Nextjs, FastAPI, and ExpressJs, and I'm always exploring the latest in Web3 and AI.</h3>
+<h1 >Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Jude Ndubuisi</h1>
+<h4>I am a Software Engineer 👨‍💻 based out of Abu Dhabi in the United Arab Emirates. I am knowlegable in JavaScript and Python, am passionate about building solutions for the everyday users, am deeply immersed in the realms of frameworks and tools like Nodejs, Nextjs, FastAPI, and ExpressJs, and I'm always exploring the latest in the Blockchain and AI.</h3>
+
 <h2>What Drives Me</h2>
 <h4>My professional journey revolves around developing websites, software, and web applications that seamlessly cater to the needs of everyday users. I thrive on the challenge of creating exceptional projects and continuously expanding my knowledge base by delving into the latest and most exciting tools emerging in the dynamic tech landscape.</h4>
 <h4>Let's build the future, one line of code at a time! 💻✨</h4>
